@@ -1,0 +1,16 @@
+import os
+from dotenv import load_dotenv
+
+# load_dotenv()
+
+API_KEY  = "cyIZbEAOaHFupA7PV9dHYtXiWKPVCX439PO3Jrr7MY3dWl3JGZgbwZ8Up6wnB1xf"
+API_SECRET = "RwO34QS71zhcWEKM1bvqkikeuX0PGqDVtP2VVQGqHpmLCS9tTGQ16yEr3bEMRoGj"
+
+TELEGRAM_BOT_TOKEN = "7801328841:AAFQSTilpN7lQzFIiZ5IlPLTOig2yzDg3-o"
+TELEGRAM_CHAT_ID =  6752022543
+
+
+
+
+BASE_URL = "HTTPS://api.binance.com"
+FEE = 0.001
